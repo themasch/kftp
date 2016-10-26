@@ -5,7 +5,8 @@
 #include <errno.h>
 #include <string.h>
 #include <netdb.h>
-#include "cSocket.c"
+#include "cSocket.h"
+
 // Version
 #define  VERSION  "0.0.0.4_ALPHA"
 
